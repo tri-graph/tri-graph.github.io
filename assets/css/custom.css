@@ -1,0 +1,18 @@
+.img-teaser{
+    width: 100%;
+}
+
+.img-center{
+    margin: 0 auto;
+    text-align: center;
+    display: block;
+}
+
+.flex-container {
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.m-xs{
+    margin: 4px;
+}

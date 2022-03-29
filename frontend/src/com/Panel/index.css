@@ -1,0 +1,45 @@
+.panelView {
+  padding: 18px 12px 10px 20px;
+}
+.graphTitle {
+  font-size: 18px;
+}
+
+.sliderWrapper {
+  margin-top: 45px;
+  /* margin-bottom: 25px; */
+  padding-right: 40px;
+}
+.trussnessText {
+  font-size: 18px;
+}
+.inputWrapper {
+  padding: 25px 39px 0 39px;
+  /* margin-bottom: 25px; */
+}
+.nodeIdText {
+  font-size: 18px;
+}
+.egoWrapper {
+  margin: 10px;
+  /* height: 410px;
+  width: 508px; */
+}
+.ego_network {
+  height: 231px;
+  width: 510px;
+}
+/* .ant-tooltip-inner {
+  box-shadow: 0px 0px 0px 0px rgb(0 0 0 / 0%), 0 0px 0px 0 rgb(0 0 0 / 0%),
+    0 0px 0px 0px rgb(0 0 0 / 0%);
+  background-color: rgba(255, 255, 255, 0);
+  color: #000;
+  font-size: 18px;
+  transform: translateY(-55%);
+}
+
+.ant-tooltip-arrow {
+  width: 0;
+  height: 0;
+} */
+

@@ -1,0 +1,11 @@
+#grid{
+  display: float;
+}
+#edgeTitle {
+  position: relative;
+}
+#title{
+  position: absolute;
+  left:41%
+}
+

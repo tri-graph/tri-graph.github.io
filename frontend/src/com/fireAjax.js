@@ -4,8 +4,7 @@ const defaultHeaders = {
   Accept: "application/json",
   "Content-Type": "application/json",
 };
-// const URL_ROOT = "http://127.0.0.1:5000/";
-const URL_ROOT = "http://10.76.0.160:5000/";
+const URL_ROOT = "http://127.0.0.1:5000/";
 function fireAjax(method, URL, data) {
   if (method === "POST") {
     return axios

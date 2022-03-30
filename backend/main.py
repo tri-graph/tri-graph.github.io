@@ -57,7 +57,6 @@ def set_k_func():
 
 if __name__ == '__main__':
     app.run(
-        # host='10.76.0.160',
         host='localhost',
         port=5000,
         debug=True
